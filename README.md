@@ -16,7 +16,7 @@ The notebooks contain the two-dimensional cellular automata model of the mixed c
 * user-defined game of life rules can be introduced by manually changing the parameters of "GoL" function in "Cell_line1" or "Cell_line2" classes
 
 
-| GoL rules  <td colspan=2>**standard**   <td colspan=2>**Conway**  <td colspan=2>**maximum growth** |
+| GoL rules | Standard |Standard| Conway |Conway| Maximum Growth |Maximum Growth|
 | :--- | :---: | :---: | :---: | :---: | :---:| :---: |
 | state | probability | number of neighbors | probability | number of neighbors |probability | number of neighbors |
 | cell dies of loneliness 			| 0.1  | [0, 1] | 1 | [0, 1] | 0 | [0, 1] |
